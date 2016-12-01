@@ -1,0 +1,21 @@
+function getFormData(formId) {
+		var data = {};
+		try {
+			$('#' + formId).find("input,select,textarea").each(function() {
+						if (this.name) {
+							if ($(this).attr('type') == 'radio') {
+								if ($(this).prop('checked'))
+									data[this.name] = $(this).val();
+							} else if ($(this).attr('type') == 'checkbox') {
+								if ($(this).prop('checked'))
+									data[this.name] = $(this).val();
+							} else
+								data[this.name] = $(this).val();
+						}
+					});
+		} catch (e) {
+			alert("err" + e);
+		}
+		
+		return data;
+	}

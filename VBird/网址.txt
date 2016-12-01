@@ -1,0 +1,29 @@
+ 以下列出一些有用的FAQ與How-To網站給您參考一下：
+
+    Linux自己的文件資料： /usr/share/doc (在你的Linux系統中)
+    CLDP 中文文件計畫 http://www.linux.org.tw/CLDP/
+    The Linux Documentation Project：http://www.tldp.org/
+
+酷学院 http://phorum.study-area.org/
+
+鳥哥網站： http://linux.vbird.org/Searching.php
+
+
+    提問的智慧 http://phorum.vbird.org/viewtopic.php?t=96
+    酷學園討論區 http://phorum.study-area.org
+    鳥哥的私房菜館討論區 http://phorum.vbird.org
+
+
+    Red Hat的硬體支援：https://hardware.redhat.com/?pagename=hcl
+    Open SuSE的硬體支援：http://en.opensuse.org/Hardware?LANG=en_UK
+    Linux對筆記型電腦的支援：http://www.linux-laptop.net/
+    Linux對印表機的支援：http://www.openprinting.org/
+    Linux硬體支援的中文HowTo：	http://www.linux.org.tw/CLDP/HOWTO/hardware.html#hardware
+
+更多Linux核心支援的硬體裝置與檔名，可以參考如下網頁：
+https://www.kernel.org/doc/Documentation/devices.txt
+
+
+Virtualbox 官網 (https://www.virtualbox.org)
+Virtualbox 官網教學 (https://www.virtualbox.org/manual/ch01.html)
+Fedora 教學 http://docs.fedoraproject.org/en-US/Fedora/13/html/Virtualization_Guide/part-Virtualization-Virtualization_Reference_Guide.html

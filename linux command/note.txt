@@ -1,0 +1,8 @@
+sudo passwd root
+tar -zxvf tarName
+gsettings set com.canonical.Unity.Launcher launcher-position Bottom
+
+sudo apt install python
+
+需要学习的
+shell  shell script

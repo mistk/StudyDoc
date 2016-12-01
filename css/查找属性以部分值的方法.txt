@@ -1,0 +1,8 @@
+$("div[id]")                查找所有含有 id 属性的div元素。 
+$("div[id='ajaxa']")        查找 id 为 ajaxa 的 div 元素。 
+$("div[id!='ajaxa']")       查找 id 不为 ajaxa 的 div 元素。 
+$("div[id^='ajaxa']")       查找 id 以 ajaxa 开头的 div 元素。 
+$("div[id$='ajaxa']")       查找 id 以 ajaxa 结尾的 div 元素。 
+$("div[id*='ajaxa']")       查找 id 含 ajaxa 的 div 元素。 
+$("div[id^='ajaxa']")       查找 id 以 ajaxa 开头的 div 元素。 
+$("div[id][class='ajaxa']") 查找存在id属性并且类为ajaxa的 div 元素。 

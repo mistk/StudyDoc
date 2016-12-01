@@ -1,0 +1,20 @@
+https://tonywang@stash.aaxisgroup.net/scm/~jlin/glpstore.git  master的目录
+$ git config --global user.name "tonywang"
+$ git config --global user.email tonywang@aaxischina.com
+
+生成ssh秘钥
+$ ssh-keygen -t rsa -C "tonywang@aaxischina.com"
+存储目录为C:\Users\tonywang\key.text
+tonywang
+
+Your identification has been saved in key.text.
+Your public key has been saved in key.text.pub.
+The key fingerprint is:
+c4:21:39:e4:8b:f7:9e:0e:d5:62:ae:45:de:36:d5:7f tonywang@aaxischina.com 
+
+github网站 https://github.com/login
+
+github账号
+name tonywangAAXIS
+password  tonywang2012
+email tonywang@aaxischina.com

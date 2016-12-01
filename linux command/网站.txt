@@ -1,0 +1,16 @@
+底下列出幾個主要的Linux distributions發行者網址：
+    Red Hat: http://www.redhat.com
+    SuSE: https://www.suse.com
+    Fedora: https://getfedora.org/
+    CentOS: http://www.centos.org/
+    Debian: http://www.debian.org/
+    Ubuntu: http://www.ubuntu.com/
+    Gentoo: http://www.gentoo.org/
+	
+	
+    自由軟體技術交流網： http://freesf.tw/
+    B2D: http://b2d-linux.com/
+	
+	如果你還想要知道更多的Linux distributions的下載與使用資訊，可以參考：
+    http://distrowatch.com/
+

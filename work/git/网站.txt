@@ -1,0 +1,2 @@
+https://tortoisegit.org/  
+http://msysgit.github.io/

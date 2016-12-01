@@ -1,0 +1,44 @@
+$.extend(browsable, {
+
+    amount : {
+        isVlidate : false,
+        preValue : "",
+        mainSKU_onkeydown : function(opt) {
+            if (browsable.amount.isVlidate && $.trim(opt.obj.value) != "" && browsable.amount.preValue != opt.obj.value) {
+                browsable.installment.calculateInstalment();
+            }
+            if (0 == parseInt(opt.obj.value)) {
+                $(opt.obj).val(1);
+                browsable.amount.preValue = 1;
+            }
+            var idBlock = opt.obj.id.split("_");
+            var sku = idBlock[1];
+            $('#pop_' + sku + '_quantity').val(parseInt(opt.obj.value));
+            $('#main_' + sku + '_quantity').val(parseInt(opt.obj.value));
+            browsable.amount.preValue = opt.obj.value;
+        },
+
+        validate : function(opt) {
+            var pattern = /[\d]/;
+            var keyCode = (document.all) ? opt.event.keyCode : opt.event.which;
+            if (keyCode == 8)
+                return true;
+            if (keyCode == 0)
+                return true;
+            var value = String.fromCharCode(keyCode);
+            browsable.amount.isVlidate = pattern.test(value);
+            return browsable.amount.isVlidate;
+        },
+        
+        change : function(opt){
+            var quantity = $("#main_" + opt.productId +  "_quantity");
+            if(opt.sign == 'add'){
+                quantity.val(parseInt(quantity.val())+1);
+            }else if(opt.sign == 'substract'){
+                quantity.val(parseInt(quantity.val())-1);
+            }
+            browsable.amount.isVlidate = true;
+            quantity.change();
+        }
+    }
+});

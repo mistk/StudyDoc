@@ -1,0 +1,30 @@
+所以，鳥哥希望大家能夠更瞭解Linux，好讓他可以為你做更多的事情喔！ 而且這些基礎知識是學習更深入的技巧的必備條件呀！因此建議：
+
+    計算機概論與硬體相關知識：
+    因為既然想要走Linux這門路，資訊相關的基礎技能也不能沒有啊！ 所以先理解一下基礎的硬體知識，不用一定要全懂啦！又不是真的要你去組電腦～^_^， 但是至少要『聽過、有概念』即可；
+
+    先從Linux的安裝與指令學起：
+    沒有Linux怎麼學習Linux呢？所以好好的安裝起一套你需要的Linux吧！雖然說Linux distributions很多， 不過基本上架構都是大同小異的，差別在於介面的親和力與軟體的選擇不同罷了！ 選擇一套你喜歡的就好了，倒是沒有哪一套特別好說～
+
+    Linux作業系統的基礎技能：
+    這些包含了『使用者、群組的概念』、『權限的觀念』，『程序的定義』等等，尤其是權限的概念， 由於不同的權限設定會妨礙你的使用者的便利性，但是太過於便利又會導致入侵的可能！ 所以這裡需要瞭解一下你的系統呦！
+
+    務必學會vi文書編輯器：
+    Linux的文書編輯器多到會讓你數到生氣！不過，vi卻是強烈建議要先學習的！ 這是因為vi會被很多軟體所呼叫，加上所有的Unix like系統上面都有vi，所以你一定要學會才好！
+
+    Shell與Shell Script的學習：
+    其實鳥哥上面一直談到的『文字介面』說穿了就是一個名為shell的軟體啦！既然要玩文字介面，當然就是要會使用shell的意思。 但是shell上面的資料太多了，包括『正規表示法』、『管線命令』與『資料流重導向』等等，真的需要瞭解比較好呦！ 此外，為了幫助你未來的管理伺服器的便利性，shell scripts也是挺重要的！要學要學！
+
+    一定要會軟體管理員：
+    因為玩Linux常常會面臨得要自己安裝驅動程式或者是安裝額外軟體的時候，尤其是嵌入式設備或者是學術研究單位等。 這個時候Tarball/RPM/DPKG/YUM/APT等軟體管理員的安裝方式的瞭解，對你來說就重要到不行了！
+
+    網路基礎的建立：
+    如果上面你都通過了，那麼網路的基礎就是下一階段要接觸的咚咚，這部份包含了『IP概念』『路由概念』等等；
+
+    如果連網路基礎都通過了，那麼網站的架設對你來說，簡直就是『太簡單啦！』
+
+在一些基礎知識上，可能的話，當然得去書店找書來讀啊！ 如果您想要由網路上面閱讀的話，那麼這裡推薦一下由Netman大哥主筆的Study-Area裡面的基礎文章，相當的實用！
+
+    電腦基礎 (http://www.study-area.org/compu/compu.htm)
+    網路基礎 (http://www.study-area.org/network/network.htm)
+請推薦有關網路的書： http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php

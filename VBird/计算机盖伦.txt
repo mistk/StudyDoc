@@ -1,0 +1,18 @@
+
+    計算機的定義為：『接受使用者輸入指令與資料，經由中央處理器的數學與邏輯單元運算處理後，以產生或儲存成有用的資訊』；
+    電腦的五大單元包括：輸入單元、輸出單元、控制單元、算數邏輯單元、記憶單元五大部分。其中CPU佔有控制、算術邏輯單元，記憶單元又包含主記憶體與輔助記憶體；
+    資料會流進/流出記憶體是CPU所發佈的控制命令，而CPU實際要處理的資料則完全來自於主記憶體；
+    CPU依設計理念主要分為：精簡指令集(RISC)與複雜指令集(CISC)系統；
+    關於CPU的時脈部分：外頻指的是CPU與外部元件進行資料傳輸時的速度，倍頻則是CPU內部用來加速工作效能的一個倍數， 兩者相乘才是CPU的時脈速度；
+    新的 CPU 設計中，已經將北橋的記憶體控制晶片整合到 CPU 內，而 CPU 與主記憶體、顯示卡溝通的匯流排通常稱為系統匯流排。 南橋就是所謂的輸入輸出(I/O)匯流排，主要在聯繫硬碟、USB、網路卡等周邊設備；
+    CPU每次能夠處理的資料量稱為字組大小(word size)，字組大小依據CPU的設計而有32位元與64位元。 我們現在所稱的電腦是32或64位元主要是依據這個 CPU解析的字組大小而來的！
+    個人電腦的主記憶體主要元件為動態隨機存取記憶體(Dynamic Random Access Memory, DRAM)， 至於CPU內部的第二層快取則使用靜態隨機存取記憶體(Static Random Access Memory, SRAM)；
+    BIOS(Basic Input Output System)是一套程式，這套程式是寫死到主機板上面的一個記憶體晶片中， 這個記憶體晶片在沒有通電時也能夠將資料記錄下來，那就是唯讀記憶體(Read Only Memory, ROM)；
+    目前主流的外接卡界面大多為 PCIe 界面，且最新為 PCIe 3.0，單通道速度高達 1GBytes/s
+    常見的顯示卡連接到螢幕的界面有 HDMI/DVI/D-Sub/Display port 等等。HDMI 可同時傳送影像與聲音。
+    傳統硬碟的組成為：圓形磁碟盤、機械手臂、 磁碟讀取頭與主軸馬達所組成的，其中磁碟盤的組成為磁區、磁軌與磁柱；
+    磁碟連接到主機板的界面大多為 SATA 或 SAS，目前桌機主流為 SATA 3.0，理論極速可達 600Mbytes/s。
+    常見的文字編碼為 ASCII，繁體中文編碼主要有 Big5 及 UTF8 兩種，目前主流為 UTF8
+    作業系統(Operating System, OS)其實也是一組程式， 這組程式的重點在於管理電腦的所有活動以及驅動系統中的所有硬體。
+    電腦主要以二進位作為單位，常用的磁碟容量單位為bytes，其單位換算為1 Byte = 8bits。
+    最陽春的作業系統僅在驅動與管理硬體，而要使用硬體時，就得需要透過應用軟體或者是殼程式(shell)的功能， 來呼叫作業系統操縱硬體工作。目前稱為作業系統的，除了上述功能外，通常已經包含了日常工作所需要的應用軟體在內了。
