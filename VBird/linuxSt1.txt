@@ -1,0 +1,3 @@
+1.BASH shell
+2.shell script
+3.套件管理员（RPM Tarball）

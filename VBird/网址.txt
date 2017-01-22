@@ -27,3 +27,48 @@ https://www.kernel.org/doc/Documentation/devices.txt
 Virtualbox 官網 (https://www.virtualbox.org)
 Virtualbox 官網教學 (https://www.virtualbox.org/manual/ch01.html)
 Fedora 教學 http://docs.fedoraproject.org/en-US/Fedora/13/html/Virtualization_Guide/part-Virtualization-Virtualization_Reference_Guide.html
+
+磁碟分割表實際延伸分割的紀錄方式 http://en.wikipedia.org/wiki/Extended_boot_record
+Red Hat的硬體支援：https://hardware.redhat.com/?pagename=hcl
+
+底下列出CentOS的下載點：
+
+    國家高速網路中心：http://ftp.twaren.net/Linux/CentOS/7/isos/
+    崑山科技大學：http://ftp.ksu.edu.tw/FTP/Linux/CentOS/7/isos/
+    CentOS官方網站：http://mirror.centos.org/centos/7/isos/
+
+底下列出幾個主要的Linux distributions發行者網址：
+    Red Hat: http://www.redhat.com
+    SuSE: https://www.suse.com
+    Fedora: https://getfedora.org/
+    CentOS: http://www.centos.org/
+    Debian: http://www.debian.org/
+    Ubuntu: http://www.ubuntu.com/
+    Gentoo: http://www.gentoo.org/
+	
+	
+    自由軟體技術交流網： http://freesf.tw/
+    B2D: http://b2d-linux.com/
+	
+    如果你還想要知道更多的Linux distributions的下載與使用資訊，可以參考：
+    http://distrowatch.com/
+
+底下是KDE與GNOME的相關連結：
+http://www.kde.org/
+http://www.gnome.org/
+
+底下列出幾個主要的Linux distributions發行者網址：
+    Red Hat: http://www.redhat.com
+    SuSE: https://www.suse.com
+    Fedora: https://getfedora.org/
+    CentOS: http://www.centos.org/
+    Debian: http://www.debian.org/
+    Ubuntu: http://www.ubuntu.com/
+    Gentoo: http://www.gentoo.org/
+	
+	
+    自由軟體技術交流網： http://freesf.tw/
+    B2D: http://b2d-linux.com/
+	
+    如果你還想要知道更多的Linux distributions的下載與使用資訊，可以參考：
+    http://distrowatch.com/

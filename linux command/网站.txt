@@ -11,6 +11,6 @@
     自由軟體技術交流網： http://freesf.tw/
     B2D: http://b2d-linux.com/
 	
-	如果你還想要知道更多的Linux distributions的下載與使用資訊，可以參考：
+    如果你還想要知道更多的Linux distributions的下載與使用資訊，可以參考：
     http://distrowatch.com/
 
