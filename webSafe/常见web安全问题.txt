@@ -1,0 +1,16 @@
+常见Web应用安全问题安全性问题的列表：
+
+　　１、跨站脚本攻击(CSS or XSS, Cross Site Scripting)
+　　２、SQL注入攻击(SQL injection)
+　　３、远程命令执行(Code execution，个人觉得译成代码执行并不确切)
+　　４、目录遍历(Directory traversal)
+　　５、文件包含(File inclusion)
+　　６、脚本代码暴露(Script source code disclosure)
+　　７、Http请求头的额外的回车换行符注入(CRLF injection/HTTP response splitting)
+　　８、跨帧脚本攻击(Cross Frame Scripting)
+　　９、PHP代码注入(PHP code injection)
+　　１０、XPath injection
+　　１１、Cookie篡改(Cookie manipulation)
+　　１２、URL重定向(URL redirection)
+　　１３、Blind SQL/XPath injection for numeric/String inputs
+　　１４、Google Hacking
